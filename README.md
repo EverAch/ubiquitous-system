@@ -5,7 +5,9 @@ These are some of the commands used in git.
 This command displays the state of the working directory and the staging area. It lets you see which changes have been staged and which haven't. It also lets you see which files aren't being tracked by git.
 
 ### git add
-This command adds file into the staging area for git. Git add is used to add the entire directories, specific files, and unstaged files.
+This command adds file into the staging area for git. Git add is used to add the entire directories, specific files, and unstaged files. 
+*Usage*
+`git add <file-name>`
 
 #### git commit
 This command record changes made to the files to a local repository.For easy reference, each commit hasa unique ID.
